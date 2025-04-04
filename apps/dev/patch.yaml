@@ -8,4 +8,4 @@ spec:
     spec:
       containers:
       - name: myapp
-        image: nginx:1.25-dev
+        image: nginx:1.26
